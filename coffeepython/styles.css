@@ -1,0 +1,21 @@
+header {
+  background-color: #CC9966;
+  padding: 40px;
+  text-align: center;
+  height:"200";
+}
+h1 {
+  color: "black";
+  text-align: "center";
+  font-family: "Tahoma";
+}
+body{
+  font-family:"Tahoma";
+  text-align: "center";
+}
+footer{
+  background-color: #CC9966;
+  padding: 20px;
+  text-align: center;
+  height:"50";
+}
